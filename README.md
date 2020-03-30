@@ -10,6 +10,9 @@ This epub library will generate temp html and download images in your DOMs, then
 
 It's very fast, except the time to download images from the web.
 
+## Modifications
+
+Code has been adjusted to allow the loading of lazy-loaded images (using data-cfsrc instead of src attribute)
 
 ## Usage
 
